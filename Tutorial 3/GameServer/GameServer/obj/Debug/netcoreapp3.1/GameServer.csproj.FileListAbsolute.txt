@@ -1,0 +1,13 @@
+E:\Tutorial\UNity Game C#\tomdw\networking\tutorial\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.exe
+E:\Tutorial\UNity Game C#\tomdw\networking\tutorial\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.deps.json
+E:\Tutorial\UNity Game C#\tomdw\networking\tutorial\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.json
+E:\Tutorial\UNity Game C#\tomdw\networking\tutorial\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.dev.json
+E:\Tutorial\UNity Game C#\tomdw\networking\tutorial\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.dll
+E:\Tutorial\UNity Game C#\tomdw\networking\tutorial\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.pdb
+E:\Tutorial\UNity Game C#\tomdw\networking\tutorial\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.csprojAssemblyReference.cache
+E:\Tutorial\UNity Game C#\tomdw\networking\tutorial\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfoInputs.cache
+E:\Tutorial\UNity Game C#\tomdw\networking\tutorial\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfo.cs
+E:\Tutorial\UNity Game C#\tomdw\networking\tutorial\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.csproj.CoreCompileInputs.cache
+E:\Tutorial\UNity Game C#\tomdw\networking\tutorial\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.dll
+E:\Tutorial\UNity Game C#\tomdw\networking\tutorial\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.pdb
+E:\Tutorial\UNity Game C#\tomdw\networking\tutorial\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.genruntimeconfig.cache
